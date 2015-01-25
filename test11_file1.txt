@@ -1,0 +1,4 @@
+﻿testing 11 
+create repo on desktop 
+create a file, save it on that folder 
+everytime that save change on the file, will apply the change to desktop github too 
